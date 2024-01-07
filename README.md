@@ -16,6 +16,12 @@
 - ⚡ Fun fact: ...
 -->
 
+## SNS
+<a href="https://velog.io/@sue0-si/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a> (KOR) <br>
+<a href="mailto:suhn08488@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+
+
+
 ## Programming Language
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
